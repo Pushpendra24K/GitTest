@@ -1,3 +1,3 @@
 # GitTest
 for testing git
-test
+test2
